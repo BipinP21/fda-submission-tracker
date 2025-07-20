@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.xlsx
+interaction_log.txt
+*.db
+.env
+.streamlit/
+data/__pycache__/
+data/*.csv
+data/*.xlsx
